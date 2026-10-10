@@ -1,0 +1,59 @@
+{
+  "instances": 300,
+  "seconds": 8.02,
+  "deckFrames": 380,
+  "averageFps": 47.4,
+  "p95FrameMs": 28.3,
+  "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00009A49) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+  "viewport": "1280×800 @ DPR 1 (render cap 1.5)",
+  "declutterP95Ms": 2.8,
+  "coldOrbit": {
+    "instances": 300,
+    "seconds": 8.03,
+    "deckFrames": 358,
+    "averageFps": 44.6,
+    "p95FrameMs": 32.1,
+    "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00009A49) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+    "viewport": "1280×800 @ DPR 1 (render cap 1.5)",
+    "declutterP95Ms": 3
+  },
+  "basemapOnly": {
+    "instances": 0,
+    "seconds": 8.02,
+    "deckFrames": 445,
+    "averageFps": 55.5,
+    "p95FrameMs": 23.3,
+    "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00009A49) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+    "viewport": "1280×800 @ DPR 1 (render cap 1.5)",
+    "declutterP95Ms": 0.2
+  },
+  "readyMs": 10414,
+  "modelPhaseMs": 7252.0999999940395,
+  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0",
+  "resources": [
+    {
+      "url": "/models/apartment.glb",
+      "durationMs": 11.5,
+      "transferredBytes": 110808,
+      "decodedBytes": 110508
+    },
+    {
+      "url": "/models/townhouse.glb",
+      "durationMs": 15.3,
+      "transferredBytes": 68372,
+      "decodedBytes": 68072
+    },
+    {
+      "url": "/models/house.glb",
+      "durationMs": 34.9,
+      "transferredBytes": 76508,
+      "decodedBytes": 76208
+    },
+    {
+      "url": "/models/loft.glb",
+      "durationMs": 29.2,
+      "transferredBytes": 124280,
+      "decodedBytes": 123980
+    }
+  ]
+}

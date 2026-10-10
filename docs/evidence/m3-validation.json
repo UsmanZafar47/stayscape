@@ -1,0 +1,15 @@
+{
+  "milestone": "M3",
+  "m4_started": false,
+  "build_and_typecheck": "passed",
+  "functional_tests": {"passed": 9, "failed": 0},
+  "final_map_recheck": {"passed": 2, "failed": 0},
+  "hardware_benchmark": {"passed": 1, "failed": 0},
+  "performance_report": "m3-performance.json",
+  "screenshots": ["m3-desktop.png", "m3-selected.png", "m3-mobile.png"],
+  "notes": [
+    "Functional browser tests used software WebGL; performance used Intel Iris Xe.",
+    "Benchmark trace and accessibility polling were disabled after CPU profiling identified measurement overhead.",
+    "Existing public map style emitted a missing wood-pattern sprite warning; map flow passed."
+  ]
+}

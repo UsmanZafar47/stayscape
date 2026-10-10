@@ -1,0 +1,92 @@
+[
+  {
+    "id": "18b19343-bf88-5771-9183-927799ad084b",
+    "title": "Quiet corner: Cedar apartment in Manhattan",
+    "pictures": [
+      "/static/placeholders/apartment.svg"
+    ],
+    "description": "Sleeping arrangements use an open-plan sleeping area, with space for up to 2 guests. Soft curtains and a tucked-away breakfast corner give this stay a sheltered feel. The house notes ask guests to keep late arrivals quiet, making it a good match for early sleepers. This apartment makes useful room for unpacking with shelves beside the sitting area.",
+    "price_minor": 17100,
+    "currency": "USD",
+    "rating": 4.72,
+    "bedrooms": 0,
+    "max_guests": 2,
+    "amenities": [
+      "air_conditioning",
+      "elevator",
+      "kitchen",
+      "pet_friendly",
+      "wifi",
+      "workspace"
+    ],
+    "property_type": "apartment",
+    "latitude": 40.7502183,
+    "longitude": -73.9883033,
+    "neighborhood": "Midtown and West Side",
+    "region": "manhattan",
+    "vibes": [
+      "quiet"
+    ],
+    "synthetic": true
+  },
+  {
+    "id": "d2ef3516-8c8e-535d-be63-aef9d26d999b",
+    "title": "Shared table: Willow apartment in Manhattan",
+    "pictures": [
+      "/static/placeholders/apartment.svg"
+    ],
+    "description": "The apartment's dining corner is deliberately small enough to leave the lounge open. The layout favors shared meals, with a kitchen that opens toward the gathering space. A basket for toys helps keep the floor clear when the day winds down. The stay has 2 separate bedrooms and accommodates up to 5 guests including a sofa bed.",
+    "price_minor": 25900,
+    "currency": "USD",
+    "rating": 4.95,
+    "bedrooms": 2,
+    "max_guests": 5,
+    "amenities": [
+      "air_conditioning",
+      "crib",
+      "kitchen",
+      "washer",
+      "wifi",
+      "workspace"
+    ],
+    "property_type": "apartment",
+    "latitude": 40.7508213,
+    "longitude": -73.9918239,
+    "neighborhood": "Midtown and West Side",
+    "region": "manhattan",
+    "vibes": [
+      "family-friendly"
+    ],
+    "synthetic": true
+  },
+  {
+    "id": "021f0c51-1a13-5e19-b23c-695d47c332f7",
+    "title": "Desk and daylight: Maple apartment in Manhattan",
+    "pictures": [
+      "/static/placeholders/apartment.svg"
+    ],
+    "description": "The work surface has room for a laptop and a paper planner side by side. Guests on a business trip can keep their materials organized without filling the dining area. The apartment's dining corner is deliberately small enough to leave the lounge open. With one separate bedroom, the home welcomes a maximum of 2 guests.",
+    "price_minor": 19800,
+    "currency": "USD",
+    "rating": 4.43,
+    "bedrooms": 1,
+    "max_guests": 2,
+    "amenities": [
+      "air_conditioning",
+      "elevator",
+      "kitchen",
+      "washer",
+      "wifi",
+      "workspace"
+    ],
+    "property_type": "apartment",
+    "latitude": 40.7478411,
+    "longitude": -73.9894107,
+    "neighborhood": "Midtown and West Side",
+    "region": "manhattan",
+    "vibes": [
+      "business trip"
+    ],
+    "synthetic": true
+  }
+]

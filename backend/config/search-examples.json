@@ -1,0 +1,1905 @@
+[
+  {
+    "query": "Quiet Manhattan apartment under $250 for 2 guests with wifi",
+    "response": {
+      "query": "Quiet Manhattan apartment under $250 for 2 guests with wifi",
+      "intent": {
+        "price_min_minor": null,
+        "price_max_minor": 25000,
+        "guests": 2,
+        "bedrooms": null,
+        "property_type": "apartment",
+        "region": "manhattan",
+        "amenities": [
+          "wifi"
+        ],
+        "vibes": [
+          "quiet"
+        ]
+      },
+      "items": [
+        {
+          "id": "18b19343-bf88-5771-9183-927799ad084b",
+          "title": "Quiet corner: Cedar apartment in Manhattan",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "Sleeping arrangements use an open-plan sleeping area, with space for up to 2 guests. Soft curtains and a tucked-away breakfast corner give this stay a sheltered feel. The house notes ask guests to keep late arrivals quiet, making it a good match for early sleepers. This apartment makes useful room for unpacking with shelves beside the sitting area.",
+          "price_minor": 17100,
+          "currency": "USD",
+          "rating": 4.72,
+          "bedrooms": 0,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "elevator",
+            "kitchen",
+            "pet_friendly",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7502183,
+          "longitude": -73.9883033,
+          "neighborhood": "Midtown and West Side",
+          "region": "manhattan",
+          "vibes": [
+            "quiet"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "2b3fc61d-1997-5179-8b16-66f9eb622425",
+          "title": "Quiet corner: Amber apartment in Manhattan",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "An inward-facing sitting room keeps the pace deliberately slow, with a reading lamp beside a deep armchair. Evenings here revolve around a book and a pot of tea rather than a television left running. This apartment makes useful room for unpacking with shelves beside the sitting area. The stay has 2 separate bedrooms and accommodates up to 3 guests.",
+          "price_minor": 22100,
+          "currency": "USD",
+          "rating": 4.8,
+          "bedrooms": 2,
+          "max_guests": 3,
+          "amenities": [
+            "air_conditioning",
+            "elevator",
+            "kitchen",
+            "washer",
+            "wifi"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.771603,
+          "longitude": -73.9803891,
+          "neighborhood": "Midtown and West Side",
+          "region": "manhattan",
+          "vibes": [
+            "quiet"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "33c66eaa-fac4-51ff-bb49-0bbd35f5bb88",
+          "title": "Reading room: Cedar apartment in Manhattan",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "The apartment keeps its cooking and sitting areas close together for easy everyday use. Morning coffee belongs at the little kitchen table, away from the main seating area. The restrained layout suits someone seeking personal space and a gentle daily routine. With one separate bedroom, the home welcomes a maximum of 2 guests.",
+          "price_minor": 21500,
+          "currency": "USD",
+          "rating": 4.77,
+          "bedrooms": 1,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "elevator",
+            "kitchen",
+            "washer",
+            "wifi"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7615491,
+          "longitude": -73.9863276,
+          "neighborhood": "Midtown and West Side",
+          "region": "manhattan",
+          "vibes": [
+            "quiet"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "9772bed2-640c-5784-8766-37fcecf6048f",
+          "title": "Shared table: Cedar apartment in Manhattan",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "Picture books and simple board games give younger visitors something to do between excursions. The atmosphere is practical and welcoming rather than filled with delicate display pieces. Sleeping arrangements use 2 separate bedrooms, with space for up to 4 guests. The apartment's dining corner is deliberately small enough to leave the lounge open.",
+          "price_minor": 22100,
+          "currency": "USD",
+          "rating": 4.65,
+          "bedrooms": 2,
+          "max_guests": 4,
+          "amenities": [
+            "air_conditioning",
+            "crib",
+            "elevator",
+            "kitchen",
+            "pet_friendly",
+            "washer",
+            "wifi"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7601614,
+          "longitude": -73.9758296,
+          "neighborhood": "Midtown and West Side",
+          "region": "manhattan",
+          "vibes": [
+            "family-friendly"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "33d187c9-0b9f-543a-9a51-9bc9fe263fb5",
+          "title": "Soft evening: Maple apartment in Manhattan",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "The apartment's dining corner is deliberately small enough to leave the lounge open. A window-side seat is the natural place to share coffee before heading out. In the evening, dimmable lamps turn the living area into a cozy retreat. Sleeping arrangements use one separate bedroom, with space for up to 2 guests.",
+          "price_minor": 21100,
+          "currency": "USD",
+          "rating": 4.72,
+          "bedrooms": 1,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "elevator",
+            "kitchen",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7649774,
+          "longitude": -73.9779543,
+          "neighborhood": "Midtown and West Side",
+          "region": "manhattan",
+          "vibes": [
+            "romantic"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "ab3ea2d0-2da0-57e7-94fd-1bf94b1fa37f",
+          "title": "Weekday retreat: Amber apartment in Manhattan",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "A compact entry leads into the apartment's main living space without wasted corridors. A small desk organizer and sensible lighting give longer laptop sessions a more comfortable setting. The rest of the room stays relaxed enough to switch off after work. With an open-plan sleeping area, the home welcomes a maximum of 2 guests.",
+          "price_minor": 13700,
+          "currency": "USD",
+          "rating": 4.78,
+          "bedrooms": 0,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "elevator",
+            "kitchen",
+            "pet_friendly",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7555288,
+          "longitude": -73.9774232,
+          "neighborhood": "Midtown and West Side",
+          "region": "manhattan",
+          "vibes": [
+            "business trip"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "8738baf3-7b0e-5586-804a-b3513dbaecf5",
+          "title": "Coffee for two: Amber apartment in Manhattan",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "A pair of comfortable chairs faces a low table set aside for conversation. Gentle lighting makes this an appealing base for an anniversary weekend or a quiet city break. The apartment keeps its cooking and sitting areas close together for easy everyday use. Up to 2 guests can stay here, using one separate bedroom.",
+          "price_minor": 23600,
+          "currency": "USD",
+          "rating": 4.62,
+          "bedrooms": 1,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "elevator",
+            "kitchen",
+            "wifi"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7651914,
+          "longitude": -73.9844146,
+          "neighborhood": "Midtown and West Side",
+          "region": "manhattan",
+          "vibes": [
+            "romantic"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "eb3951b2-1d01-55c6-b687-8c654e8a596f",
+          "title": "Coffee for two: Willow apartment in Manhattan",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "The stay has one separate bedroom and accommodates up to 2 guests. Textured blankets and a thoughtfully arranged breakfast spot make staying in feel like part of the trip. The atmosphere is intimate without relying on extravagant decoration. This apartment makes useful room for unpacking with shelves beside the sitting area.",
+          "price_minor": 18500,
+          "currency": "USD",
+          "rating": 4.67,
+          "bedrooms": 1,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "kitchen",
+            "pet_friendly",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7622739,
+          "longitude": -73.9820876,
+          "neighborhood": "Midtown and West Side",
+          "region": "manhattan",
+          "vibes": [
+            "romantic"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "84f8845c-c64f-5b48-bafb-71ff20750563",
+          "title": "City assignment: Cedar apartment in Manhattan",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "The stay has an open-plan sleeping area and accommodates up to 2 guests. The workspace is arranged for reading documents without clearing the kitchen table. After calls, a separate lounge chair provides a welcome change of posture. The apartment keeps its cooking and sitting areas close together for easy everyday use.",
+          "price_minor": 15200,
+          "currency": "USD",
+          "rating": 4.69,
+          "bedrooms": 0,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "kitchen",
+            "pet_friendly",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7632102,
+          "longitude": -73.9753869,
+          "neighborhood": "Midtown and West Side",
+          "region": "manhattan",
+          "vibes": [
+            "business trip"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "ec28ba4e-8ab3-5d11-a579-cbd34fdb192c",
+          "title": "Evening lights: Cedar apartment in Manhattan",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "The apartment's dining corner is deliberately small enough to leave the lounge open. The dining area is arranged for a relaxed meal before heading out for the evening. Blackout curtains help late sleepers recover, although the stay itself is not a party venue. Sleeping arrangements use an open-plan sleeping area, with space for up to 2 guests.",
+          "price_minor": 16100,
+          "currency": "USD",
+          "rating": 4.34,
+          "bedrooms": 0,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "kitchen",
+            "pet_friendly",
+            "washer",
+            "wifi"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.771123,
+          "longitude": -73.9813929,
+          "neighborhood": "Midtown and West Side",
+          "region": "manhattan",
+          "vibes": [
+            "nightlife"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "57aee47c-a4ad-5676-87e3-7b9c45f3aa79",
+          "title": "Smart city base: Willow apartment in Manhattan",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "Up to 2 guests can stay here, using an open-plan sleeping area. Good use of a modest footprint gives the home a practical character. Bringing groceries and preparing breakfast here can help a city visit feel less expensive. The apartment's dining corner is deliberately small enough to leave the lounge open.",
+          "price_minor": 10200,
+          "currency": "USD",
+          "rating": 4.93,
+          "bedrooms": 0,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "elevator",
+            "kitchen",
+            "wifi"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7618235,
+          "longitude": -73.9804824,
+          "neighborhood": "Midtown and West Side",
+          "region": "manhattan",
+          "vibes": [
+            "budget"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "731ee6fe-f0b5-5d1f-a8b6-0ed809c540de",
+          "title": "Sky and rooftops: Maple apartment in Manhattan",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "The outdoor seating area makes a simple breakfast feel like a small occasion. Inside, pale fabrics and an uncluttered window line keep attention on the changing sky. The stay has an open-plan sleeping area and accommodates up to 2 guests. This apartment makes useful room for unpacking with shelves beside the sitting area.",
+          "price_minor": 18700,
+          "currency": "USD",
+          "rating": 4.71,
+          "bedrooms": 0,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "balcony",
+            "elevator",
+            "kitchen",
+            "pet_friendly",
+            "washer",
+            "wifi"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7570526,
+          "longitude": -73.9784797,
+          "neighborhood": "Midtown and West Side",
+          "region": "manhattan",
+          "vibes": [
+            "scenic"
+          ],
+          "synthetic": true
+        }
+      ],
+      "scores": [
+        0.70801,
+        0.69666,
+        0.65633,
+        0.64064,
+        0.63463,
+        0.63177,
+        0.62957,
+        0.62338,
+        0.61933,
+        0.61762,
+        0.61413,
+        0.61262
+      ],
+      "eligible_total": 24,
+      "explanation": "Showing 12 of 24 eligible stays in manhattan, $102.00\u2013$236.00 USD/night. Every shown stay satisfies the interpreted hard filters. Ranked for quiet; vibe similarity is not a guarantee. Offline demo: saved interpretation and ranking; no provider request.",
+      "bounds": [
+        [
+          -73.9883033,
+          40.7502183
+        ],
+        [
+          -73.9753869,
+          40.771603
+        ]
+      ],
+      "source": "demo",
+      "ranking": "fastembed",
+      "cached": false
+    }
+  },
+  {
+    "query": "Romantic Brooklyn loft under $300 with a balcony",
+    "response": {
+      "query": "Romantic Brooklyn loft under $300 with a balcony",
+      "intent": {
+        "price_min_minor": null,
+        "price_max_minor": 30000,
+        "guests": null,
+        "bedrooms": null,
+        "property_type": "loft",
+        "region": "brooklyn",
+        "amenities": [
+          "balcony"
+        ],
+        "vibes": [
+          "romantic"
+        ]
+      },
+      "items": [
+        {
+          "id": "108cfaea-a2a0-588b-94ec-2f4a57e9063f",
+          "title": "Considered comfort: Cedar loft in Brooklyn",
+          "pictures": [
+            "/static/placeholders/loft.svg"
+          ],
+          "description": "An open-plan lounge gives this loft an airy character, with a clearly defined dining corner. Thick curtains and layered bedding soften an interior built around warm wood tones. The rooms favor tactile comfort and thoughtful details over visual clutter. Sleeping arrangements use an open-plan sleeping area, with space for up to 2 guests.",
+          "price_minor": 26900,
+          "currency": "USD",
+          "rating": 4.68,
+          "bedrooms": 0,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "balcony",
+            "kitchen",
+            "washer",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "loft",
+          "latitude": 40.6739699,
+          "longitude": -73.9780598,
+          "neighborhood": "Park Slope",
+          "region": "brooklyn",
+          "vibes": [
+            "luxury"
+          ],
+          "synthetic": true
+        }
+      ],
+      "scores": [
+        0.56643
+      ],
+      "eligible_total": 1,
+      "explanation": "Showing 1 of 1 eligible stays in brooklyn, $269.00\u2013$269.00 USD/night. Every shown stay satisfies the interpreted hard filters. Ranked for romantic; vibe similarity is not a guarantee. Offline demo: saved interpretation and ranking; no provider request.",
+      "bounds": [
+        [
+          -73.9780598,
+          40.6739699
+        ],
+        [
+          -73.9780598,
+          40.6739699
+        ]
+      ],
+      "source": "demo",
+      "ranking": "fastembed",
+      "cached": false
+    }
+  },
+  {
+    "query": "Family house in Queens under $350 for 4 guests with a kitchen",
+    "response": {
+      "query": "Family house in Queens under $350 for 4 guests with a kitchen",
+      "intent": {
+        "price_min_minor": null,
+        "price_max_minor": 35000,
+        "guests": 4,
+        "bedrooms": null,
+        "property_type": "house",
+        "region": "queens",
+        "amenities": [
+          "kitchen"
+        ],
+        "vibes": [
+          "family-friendly"
+        ]
+      },
+      "items": [
+        {
+          "id": "ba8a9b8a-b6d9-55df-a923-04cdf0483d20",
+          "title": "Family days: Maple house in Queens",
+          "pictures": [
+            "/static/placeholders/house.svg"
+          ],
+          "description": "The house has a distinct living room where guests can gather between outings. A welcoming entry bench makes shoes and jackets easier to manage at the end of a day out. The interior prioritizes useful surfaces and shared time over fragile decoration. Up to 7 guests can stay here, using 4 separate bedrooms.",
+          "price_minor": 28500,
+          "currency": "USD",
+          "rating": 4.78,
+          "bedrooms": 4,
+          "max_guests": 7,
+          "amenities": [
+            "air_conditioning",
+            "crib",
+            "kitchen",
+            "parking",
+            "washer",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "house",
+          "latitude": 40.7706225,
+          "longitude": -73.9241028,
+          "neighborhood": "Astoria",
+          "region": "queens",
+          "vibes": [
+            "family-friendly"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "bd728a93-0888-580a-9a08-7d451e4b54a7",
+          "title": "Little explorers: Olive house in Queens",
+          "pictures": [
+            "/static/placeholders/house.svg"
+          ],
+          "description": "Picture books and simple board games give younger visitors something to do between excursions. The atmosphere is practical and welcoming rather than filled with delicate display pieces. The stay has 4 separate bedrooms and accommodates up to 5 guests. A practical entry area gives the house a comfortable place to leave coats and bags.",
+          "price_minor": 32500,
+          "currency": "USD",
+          "rating": 4.57,
+          "bedrooms": 4,
+          "max_guests": 5,
+          "amenities": [
+            "air_conditioning",
+            "crib",
+            "kitchen",
+            "washer",
+            "wifi"
+          ],
+          "property_type": "house",
+          "latitude": 40.7656247,
+          "longitude": -73.9273259,
+          "neighborhood": "Astoria",
+          "region": "queens",
+          "vibes": [
+            "family-friendly"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "e269e182-09ca-5b48-bbc8-4f1e79af2f5c",
+          "title": "Little explorers: Juniper house in Queens",
+          "pictures": [
+            "/static/placeholders/house.svg"
+          ],
+          "description": "Separate sleeping rooms make this house useful for guests keeping different routines. A washable dining surface and a basket of children's books make shared routines easier. The living area leaves space for a quiet game while dinner is being prepared. With 3 separate bedrooms, the home welcomes a maximum of 4 guests.",
+          "price_minor": 23800,
+          "currency": "USD",
+          "rating": 4.55,
+          "bedrooms": 3,
+          "max_guests": 4,
+          "amenities": [
+            "air_conditioning",
+            "crib",
+            "kitchen",
+            "parking",
+            "washer",
+            "wifi"
+          ],
+          "property_type": "house",
+          "latitude": 40.7625781,
+          "longitude": -73.9249338,
+          "neighborhood": "Astoria",
+          "region": "queens",
+          "vibes": [
+            "family-friendly"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "59fec664-711b-5ac2-96f0-bee2227f8fbf",
+          "title": "Shared table: Amber house in Queens",
+          "pictures": [
+            "/static/placeholders/house.svg"
+          ],
+          "description": "Coat hooks sit at different heights and the entry has space to organize day bags. After an outing, the household can settle around the dining table instead of balancing meals on laps. The stay has 2 separate bedrooms and accommodates up to 4 guests. The house has a distinct living room where guests can gather between outings.",
+          "price_minor": 21900,
+          "currency": "USD",
+          "rating": 4.89,
+          "bedrooms": 2,
+          "max_guests": 4,
+          "amenities": [
+            "air_conditioning",
+            "crib",
+            "kitchen",
+            "washer",
+            "wifi"
+          ],
+          "property_type": "house",
+          "latitude": 40.7675032,
+          "longitude": -73.9261111,
+          "neighborhood": "Astoria",
+          "region": "queens",
+          "vibes": [
+            "family-friendly"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "9c1631a9-ce8a-5457-9d0e-9d7fed98d3d3",
+          "title": "Quiet corner: Willow house in Queens",
+          "pictures": [
+            "/static/placeholders/house.svg"
+          ],
+          "description": "A woven rug softens the sitting area, while warm lamps replace harsh overhead light in the evening. Guests looking for a calm base can settle into a book without turning the room into a workstation. A practical entry area gives the house a comfortable place to leave coats and bags. Sleeping arrangements use 4 separate bedrooms, with space for up to 6 guests.",
+          "price_minor": 26600,
+          "currency": "USD",
+          "rating": 4.87,
+          "bedrooms": 4,
+          "max_guests": 6,
+          "amenities": [
+            "air_conditioning",
+            "kitchen",
+            "parking",
+            "wifi"
+          ],
+          "property_type": "house",
+          "latitude": 40.7666491,
+          "longitude": -73.918678,
+          "neighborhood": "Astoria",
+          "region": "queens",
+          "vibes": [
+            "quiet"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "68a70730-c0cb-52b3-b8ac-9c4b8813425e",
+          "title": "Open outlook: Amber house in Queens",
+          "pictures": [
+            "/static/placeholders/house.svg"
+          ],
+          "description": "The house has a distinct living room where guests can gather between outings. Broad windows bring a sense of openness to the sitting area, with a balcony for a breath of air. Guests who like photographing city textures will find the everyday roofscape appealing. The stay has 2 separate bedrooms and accommodates up to 6 guests including a sofa bed.",
+          "price_minor": 20500,
+          "currency": "USD",
+          "rating": 4.82,
+          "bedrooms": 2,
+          "max_guests": 6,
+          "amenities": [
+            "air_conditioning",
+            "balcony",
+            "kitchen",
+            "parking",
+            "wifi"
+          ],
+          "property_type": "house",
+          "latitude": 40.7727106,
+          "longitude": -73.9226131,
+          "neighborhood": "Astoria",
+          "region": "queens",
+          "vibes": [
+            "scenic"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "7026e8ef-70c5-5759-adbf-44e0717a0e3a",
+          "title": "Late breakfast: Juniper house in Queens",
+          "pictures": [
+            "/static/placeholders/house.svg"
+          ],
+          "description": "Evening light catches the colorful artwork above the dining table. Guests who enjoy city entertainment can make this their starting point, while keeping celebrations outside the property. Separate sleeping rooms make this house useful for guests keeping different routines. The stay has 3 separate bedrooms and accommodates up to 7 guests including a sofa bed.",
+          "price_minor": 25800,
+          "currency": "USD",
+          "rating": 4.61,
+          "bedrooms": 3,
+          "max_guests": 7,
+          "amenities": [
+            "air_conditioning",
+            "kitchen",
+            "wifi"
+          ],
+          "property_type": "house",
+          "latitude": 40.7629394,
+          "longitude": -73.9171289,
+          "neighborhood": "Astoria",
+          "region": "queens",
+          "vibes": [
+            "nightlife"
+          ],
+          "synthetic": true
+        }
+      ],
+      "scores": [
+        0.67674,
+        0.67649,
+        0.66923,
+        0.62192,
+        0.60627,
+        0.58817,
+        0.5772
+      ],
+      "eligible_total": 7,
+      "explanation": "Showing 7 of 7 eligible stays in queens, $205.00\u2013$325.00 USD/night. Every shown stay satisfies the interpreted hard filters. Ranked for family-friendly; vibe similarity is not a guarantee. Offline demo: saved interpretation and ranking; no provider request.",
+      "bounds": [
+        [
+          -73.9273259,
+          40.7625781
+        ],
+        [
+          -73.9171289,
+          40.7727106
+        ]
+      ],
+      "source": "demo",
+      "ranking": "fastembed",
+      "cached": false
+    }
+  },
+  {
+    "query": "Business trip to Jersey City under $250 with wifi and workspace",
+    "response": {
+      "query": "Business trip to Jersey City under $250 with wifi and workspace",
+      "intent": {
+        "price_min_minor": null,
+        "price_max_minor": 25000,
+        "guests": null,
+        "bedrooms": null,
+        "property_type": null,
+        "region": "jersey-city",
+        "amenities": [
+          "wifi",
+          "workspace"
+        ],
+        "vibes": [
+          "business trip"
+        ]
+      },
+      "items": [
+        {
+          "id": "4bd250bc-3ad2-5fea-a3eb-df3a61646d8b",
+          "title": "Weekday retreat: Maple apartment in Jersey City",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "Sleeping arrangements use 2 separate bedrooms, with space for up to 6 guests including a sofa bed. The work surface has room for a laptop and a paper planner side by side. Guests on a business trip can keep their materials organized without filling the dining area. This apartment makes useful room for unpacking with shelves beside the sitting area.",
+          "price_minor": 14900,
+          "currency": "USD",
+          "rating": 4.81,
+          "bedrooms": 2,
+          "max_guests": 6,
+          "amenities": [
+            "air_conditioning",
+            "elevator",
+            "kitchen",
+            "washer",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7209584,
+          "longitude": -74.0440176,
+          "neighborhood": "Downtown Jersey City",
+          "region": "jersey-city",
+          "vibes": [
+            "business trip"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "a9a65062-2d4b-53af-bcb9-26d0af173572",
+          "title": "Work and unwind: Maple apartment in Jersey City",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "A small desk organizer and sensible lighting give longer laptop sessions a more comfortable setting. The rest of the room stays relaxed enough to switch off after work. Up to 6 guests can stay here including a sofa bed, using 2 separate bedrooms. The apartment's dining corner is deliberately small enough to leave the lounge open.",
+          "price_minor": 16700,
+          "currency": "USD",
+          "rating": 4.42,
+          "bedrooms": 2,
+          "max_guests": 6,
+          "amenities": [
+            "air_conditioning",
+            "kitchen",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7232495,
+          "longitude": -74.0421382,
+          "neighborhood": "Downtown Jersey City",
+          "region": "jersey-city",
+          "vibes": [
+            "business trip"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "ddc3c9bc-cfd6-50e4-b46e-d3fdc0d30990",
+          "title": "City assignment: Cedar townhouse in Jersey City",
+          "pictures": [
+            "/static/placeholders/townhouse.svg"
+          ],
+          "description": "An ergonomic-style desk chair and accessible outlets make laptop sessions straightforward. The uncluttered entry gives visitors a place to prepare for the next day's appointments. Up to 3 guests can stay here, using 2 separate bedrooms. This townhouse trades a wide floor plan for rooms arranged across separate levels.",
+          "price_minor": 22300,
+          "currency": "USD",
+          "rating": 4.87,
+          "bedrooms": 2,
+          "max_guests": 3,
+          "amenities": [
+            "air_conditioning",
+            "kitchen",
+            "pet_friendly",
+            "washer",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "townhouse",
+          "latitude": 40.7169621,
+          "longitude": -74.0439605,
+          "neighborhood": "Downtown Jersey City",
+          "region": "jersey-city",
+          "vibes": [
+            "business trip"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "be32bb2e-00b2-5e54-979f-fa2368c49cb7",
+          "title": "City assignment: Willow townhouse in Jersey City",
+          "pictures": [
+            "/static/placeholders/townhouse.svg"
+          ],
+          "description": "Up to 6 guests can stay here including a sofa bed, using 2 separate bedrooms. A task-lit desk anchors the practical interior, with space beside it for a notebook. This home favors a predictable workday routine over elaborate entertaining. This townhouse trades a wide floor plan for rooms arranged across separate levels.",
+          "price_minor": 22200,
+          "currency": "USD",
+          "rating": 4.74,
+          "bedrooms": 2,
+          "max_guests": 6,
+          "amenities": [
+            "air_conditioning",
+            "kitchen",
+            "pet_friendly",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "townhouse",
+          "latitude": 40.7145394,
+          "longitude": -74.0436243,
+          "neighborhood": "Downtown Jersey City",
+          "region": "jersey-city",
+          "vibes": [
+            "business trip"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "77ffcb64-5f4e-5fb9-b4c3-00b50d89854d",
+          "title": "After hours: Willow loft in Jersey City",
+          "pictures": [
+            "/static/placeholders/loft.svg"
+          ],
+          "description": "Up to 2 guests can stay here, using one separate bedroom. Jewel-colored cushions and a breakfast bar make short city breaks feel festive. The layout is aimed at guests who spend evenings out and prefer leisurely starts the next morning. The loft keeps a broad central living area instead of dividing it into several small rooms.",
+          "price_minor": 14300,
+          "currency": "USD",
+          "rating": 4.86,
+          "bedrooms": 1,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "kitchen",
+            "pet_friendly",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "loft",
+          "latitude": 40.7239383,
+          "longitude": -74.05,
+          "neighborhood": "Downtown Jersey City",
+          "region": "jersey-city",
+          "vibes": [
+            "nightlife"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "fa74c575-c265-542e-9402-63f220cb0054",
+          "title": "Desk and daylight: Olive apartment in Jersey City",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "With one separate bedroom, the home welcomes a maximum of 1 guests. The workspace is arranged for reading documents without clearing the kitchen table. After calls, a separate lounge chair provides a welcome change of posture. This apartment makes useful room for unpacking with shelves beside the sitting area.",
+          "price_minor": 12500,
+          "currency": "USD",
+          "rating": 4.61,
+          "bedrooms": 1,
+          "max_guests": 1,
+          "amenities": [
+            "air_conditioning",
+            "elevator",
+            "kitchen",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7184185,
+          "longitude": -74.042786,
+          "neighborhood": "Downtown Jersey City",
+          "region": "jersey-city",
+          "vibes": [
+            "business trip"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "eefbe7d4-619a-5469-9271-c4a070799037",
+          "title": "Special occasion: Cedar apartment in Jersey City",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "The apartment's dining corner is deliberately small enough to leave the lounge open. A spacious-feeling lounge pairs textured upholstery with sculptural lamps. This stay is designed for visitors who enjoy spending time in their accommodation as well as exploring outside. The stay has an open-plan sleeping area and accommodates up to 2 guests.",
+          "price_minor": 20800,
+          "currency": "USD",
+          "rating": 4.82,
+          "bedrooms": 0,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "balcony",
+            "elevator",
+            "kitchen",
+            "pet_friendly",
+            "washer",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7292588,
+          "longitude": -74.0416344,
+          "neighborhood": "Downtown Jersey City",
+          "region": "jersey-city",
+          "vibes": [
+            "luxury"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "18c012b5-f529-5558-bc44-7086fec0d037",
+          "title": "Coffee for two: Cedar loft in Jersey City",
+          "pictures": [
+            "/static/placeholders/loft.svg"
+          ],
+          "description": "Tall shelving and an open gathering area give the loft its distinctive proportions. A window-side seat is the natural place to share coffee before heading out. In the evening, dimmable lamps turn the living area into a cozy retreat. The stay has 2 separate bedrooms and accommodates up to 2 guests.",
+          "price_minor": 19400,
+          "currency": "USD",
+          "rating": 4.74,
+          "bedrooms": 2,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "kitchen",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "loft",
+          "latitude": 40.7212871,
+          "longitude": -74.0483146,
+          "neighborhood": "Downtown Jersey City",
+          "region": "jersey-city",
+          "vibes": [
+            "romantic"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "596a31c3-4b1c-55f4-94a3-c9eed574be28",
+          "title": "Sky and rooftops: Maple apartment in Jersey City",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "Up to 4 guests can stay here including a sofa bed, using one separate bedroom. The balcony is set up for sitting with a book rather than hosting a crowd. An open-feeling lounge makes it easy to enjoy the shifting light from indoors as well. The apartment's dining corner is deliberately small enough to leave the lounge open.",
+          "price_minor": 17800,
+          "currency": "USD",
+          "rating": 4.73,
+          "bedrooms": 1,
+          "max_guests": 4,
+          "amenities": [
+            "air_conditioning",
+            "balcony",
+            "kitchen",
+            "pet_friendly",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7294437,
+          "longitude": -74.0476447,
+          "neighborhood": "Downtown Jersey City",
+          "region": "jersey-city",
+          "vibes": [
+            "scenic"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "685e8b01-0388-527d-aa7a-052aad1b6ef6",
+          "title": "Desk and daylight: Maple apartment in Jersey City",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "With one separate bedroom, the home welcomes a maximum of 3 guests including a sofa bed. The design leaves a calm background behind the desk for video meetings. A simple kitchen makes it easy to fit breakfast around an early start. The apartment keeps its cooking and sitting areas close together for easy everyday use.",
+          "price_minor": 14900,
+          "currency": "USD",
+          "rating": 4.92,
+          "bedrooms": 1,
+          "max_guests": 3,
+          "amenities": [
+            "air_conditioning",
+            "elevator",
+            "kitchen",
+            "pet_friendly",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7184466,
+          "longitude": -74.0513488,
+          "neighborhood": "Downtown Jersey City",
+          "region": "jersey-city",
+          "vibes": [
+            "business trip"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "f401e239-1d0e-59d5-b763-03a5e07648fa",
+          "title": "Tea and pages: Willow townhouse in Jersey City",
+          "pictures": [
+            "/static/placeholders/townhouse.svg"
+          ],
+          "description": "Sleeping arrangements use 2 separate bedrooms, with space for up to 2 guests. Muted fabrics and uncluttered shelves make the living space feel restful after a busy day outside. A comfortable chair faces the courtyard side of the building for a slower evening indoors. The townhouse has an internal staircase, so it is not a step-free stay.",
+          "price_minor": 19600,
+          "currency": "USD",
+          "rating": 4.77,
+          "bedrooms": 2,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "kitchen",
+            "washer",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "townhouse",
+          "latitude": 40.7242442,
+          "longitude": -74.0520392,
+          "neighborhood": "Downtown Jersey City",
+          "region": "jersey-city",
+          "vibes": [
+            "quiet"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "2f636f72-4a38-500f-92c2-913a6e8e9f37",
+          "title": "Open outlook: Olive house in Jersey City",
+          "pictures": [
+            "/static/placeholders/house.svg"
+          ],
+          "description": "The main sitting area is organized around natural light and access to the balcony. It makes a gentle setting for a late breakfast or watching the evening colors settle. The stay has 2 separate bedrooms and accommodates up to 5 guests including a sofa bed. The house's shared dining space provides a natural meeting point throughout the day.",
+          "price_minor": 25000,
+          "currency": "USD",
+          "rating": 4.64,
+          "bedrooms": 2,
+          "max_guests": 5,
+          "amenities": [
+            "air_conditioning",
+            "balcony",
+            "kitchen",
+            "parking",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "house",
+          "latitude": 40.7260767,
+          "longitude": -74.0508989,
+          "neighborhood": "Downtown Jersey City",
+          "region": "jersey-city",
+          "vibes": [
+            "scenic"
+          ],
+          "synthetic": true
+        }
+      ],
+      "scores": [
+        0.61021,
+        0.59793,
+        0.57754,
+        0.56837,
+        0.54033,
+        0.54015,
+        0.53975,
+        0.53858,
+        0.53597,
+        0.52749,
+        0.52489,
+        0.52427
+      ],
+      "eligible_total": 26,
+      "explanation": "Showing 12 of 26 eligible stays in jersey city, $125.00\u2013$250.00 USD/night. Every shown stay satisfies the interpreted hard filters. Ranked for business trip; vibe similarity is not a guarantee. Offline demo: saved interpretation and ranking; no provider request.",
+      "bounds": [
+        [
+          -74.0520392,
+          40.7145394
+        ],
+        [
+          -74.0416344,
+          40.7294437
+        ]
+      ],
+      "source": "demo",
+      "ranking": "fastembed",
+      "cached": false
+    }
+  },
+  {
+    "query": "Scenic Hoboken stay under $300 with a balcony",
+    "response": {
+      "query": "Scenic Hoboken stay under $300 with a balcony",
+      "intent": {
+        "price_min_minor": null,
+        "price_max_minor": 30000,
+        "guests": null,
+        "bedrooms": null,
+        "property_type": null,
+        "region": "hoboken",
+        "amenities": [
+          "balcony"
+        ],
+        "vibes": [
+          "scenic"
+        ]
+      },
+      "items": [
+        {
+          "id": "0cc42560-edb6-537d-9c17-50fb4ca967e6",
+          "title": "Balcony journal: Willow apartment in Hoboken",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "The main sitting area is organized around natural light and access to the balcony. It makes a gentle setting for a late breakfast or watching the evening colors settle. Up to 2 guests can stay here, using an open-plan sleeping area. The apartment keeps its cooking and sitting areas close together for easy everyday use.",
+          "price_minor": 13800,
+          "currency": "USD",
+          "rating": 4.93,
+          "bedrooms": 0,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "balcony",
+            "elevator",
+            "kitchen",
+            "wifi"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7518473,
+          "longitude": -74.0354825,
+          "neighborhood": "Central Hoboken",
+          "region": "hoboken",
+          "vibes": [
+            "scenic"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "1b0ebe97-0395-5f1a-b6b5-e62af875acbf",
+          "title": "Changing light: Cedar apartment in Hoboken",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "A compact entry leads into the apartment's main living space without wasted corridors. The outdoor seating area makes a simple breakfast feel like a small occasion. Inside, pale fabrics and an uncluttered window line keep attention on the changing sky. Up to 2 guests can stay here, using an open-plan sleeping area.",
+          "price_minor": 15900,
+          "currency": "USD",
+          "rating": 4.78,
+          "bedrooms": 0,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "balcony",
+            "elevator",
+            "kitchen",
+            "pet_friendly",
+            "washer",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7498431,
+          "longitude": -74.0299457,
+          "neighborhood": "Central Hoboken",
+          "region": "hoboken",
+          "vibes": [
+            "scenic"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "08a067eb-cd1e-505f-bd0c-432f39942197",
+          "title": "Considered comfort: Cedar apartment in Hoboken",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "A spacious-feeling lounge pairs textured upholstery with sculptural lamps. This stay is designed for visitors who enjoy spending time in their accommodation as well as exploring outside. A compact entry leads into the apartment's main living space without wasted corridors. The stay has one separate bedroom and accommodates up to 3 guests including a sofa bed.",
+          "price_minor": 29100,
+          "currency": "USD",
+          "rating": 4.85,
+          "bedrooms": 1,
+          "max_guests": 3,
+          "amenities": [
+            "air_conditioning",
+            "balcony",
+            "kitchen",
+            "washer",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7504786,
+          "longitude": -74.0331205,
+          "neighborhood": "Central Hoboken",
+          "region": "hoboken",
+          "vibes": [
+            "luxury"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "46c7b738-9c5b-53fc-b3f1-5f4b787a55c9",
+          "title": "Considered comfort: Amber apartment in Hoboken",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "A beautifully arranged dining corner sets the tone for lingering meals. Soft textiles and coordinated lighting extend that feeling through the rest of the home. Up to 3 guests can stay here including a sofa bed, using one separate bedroom. A compact entry leads into the apartment's main living space without wasted corridors.",
+          "price_minor": 27700,
+          "currency": "USD",
+          "rating": 4.87,
+          "bedrooms": 1,
+          "max_guests": 3,
+          "amenities": [
+            "air_conditioning",
+            "balcony",
+            "kitchen",
+            "washer",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7469459,
+          "longitude": -74.0342507,
+          "neighborhood": "Central Hoboken",
+          "region": "hoboken",
+          "vibes": [
+            "luxury"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "4fc26eab-04a1-5450-86c8-eb85a0bd74a6",
+          "title": "Balcony journal: Juniper apartment in Hoboken",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "Broad windows bring a sense of openness to the sitting area, with a balcony for a breath of air. Guests who like photographing city textures will find the everyday roofscape appealing. With 2 separate bedrooms, the home welcomes a maximum of 2 guests. A compact entry leads into the apartment's main living space without wasted corridors.",
+          "price_minor": 23500,
+          "currency": "USD",
+          "rating": 4.64,
+          "bedrooms": 2,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "balcony",
+            "elevator",
+            "kitchen",
+            "washer",
+            "wifi"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7437862,
+          "longitude": -74.0375276,
+          "neighborhood": "Central Hoboken",
+          "region": "hoboken",
+          "vibes": [
+            "scenic"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "6b71983b-1aba-5de6-838e-99c315dbc2ea",
+          "title": "Balcony journal: Maple townhouse in Hoboken",
+          "pictures": [
+            "/static/placeholders/townhouse.svg"
+          ],
+          "description": "This townhouse trades a wide floor plan for rooms arranged across separate levels. A chair by the balcony entrance offers a comfortable perch even when the weather keeps you inside. The appeal is neighborhood outlook and daylight, not a promised landmark panorama. With 2 separate bedrooms, the home welcomes a maximum of 3 guests.",
+          "price_minor": 27000,
+          "currency": "USD",
+          "rating": 4.76,
+          "bedrooms": 2,
+          "max_guests": 3,
+          "amenities": [
+            "air_conditioning",
+            "balcony",
+            "kitchen",
+            "washer",
+            "wifi"
+          ],
+          "property_type": "townhouse",
+          "latitude": 40.751539,
+          "longitude": -74.0337287,
+          "neighborhood": "Central Hoboken",
+          "region": "hoboken",
+          "vibes": [
+            "scenic"
+          ],
+          "synthetic": true
+        }
+      ],
+      "scores": [
+        0.63007,
+        0.6089,
+        0.60479,
+        0.59991,
+        0.59535,
+        0.56738
+      ],
+      "eligible_total": 6,
+      "explanation": "Showing 6 of 6 eligible stays in hoboken, $138.00\u2013$291.00 USD/night. Every shown stay satisfies the interpreted hard filters. Ranked for scenic; vibe similarity is not a guarantee. Offline demo: saved interpretation and ranking; no provider request.",
+      "bounds": [
+        [
+          -74.0375276,
+          40.7437862
+        ],
+        [
+          -74.0299457,
+          40.7518473
+        ]
+      ],
+      "source": "demo",
+      "ranking": "fastembed",
+      "cached": false
+    }
+  },
+  {
+    "query": "Affordable Manhattan stay under $150 for 2 guests",
+    "response": {
+      "query": "Affordable Manhattan stay under $150 for 2 guests",
+      "intent": {
+        "price_min_minor": null,
+        "price_max_minor": 15000,
+        "guests": 2,
+        "bedrooms": null,
+        "property_type": null,
+        "region": "manhattan",
+        "amenities": [],
+        "vibes": [
+          "budget"
+        ]
+      },
+      "items": [
+        {
+          "id": "57aee47c-a4ad-5676-87e3-7b9c45f3aa79",
+          "title": "Smart city base: Willow apartment in Manhattan",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "Up to 2 guests can stay here, using an open-plan sleeping area. Good use of a modest footprint gives the home a practical character. Bringing groceries and preparing breakfast here can help a city visit feel less expensive. The apartment's dining corner is deliberately small enough to leave the lounge open.",
+          "price_minor": 10200,
+          "currency": "USD",
+          "rating": 4.93,
+          "bedrooms": 0,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "elevator",
+            "kitchen",
+            "wifi"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7618235,
+          "longitude": -73.9804824,
+          "neighborhood": "Midtown and West Side",
+          "region": "manhattan",
+          "vibes": [
+            "budget"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "79197ccf-1dc3-5672-9fb9-8f67d80570e3",
+          "title": "Smart city base: Amber loft in Manhattan",
+          "pictures": [
+            "/static/placeholders/loft.svg"
+          ],
+          "description": "Up to 4 guests can stay here including a sofa bed, using one separate bedroom. Good use of a modest footprint gives the home a practical character. Bringing groceries and preparing breakfast here can help a city visit feel less expensive. The loft's industrial-inspired shelving adds character without filling the open floor space.",
+          "price_minor": 13600,
+          "currency": "USD",
+          "rating": 4.78,
+          "bedrooms": 1,
+          "max_guests": 4,
+          "amenities": [
+            "air_conditioning",
+            "kitchen",
+            "wifi"
+          ],
+          "property_type": "loft",
+          "latitude": 40.7505904,
+          "longitude": -73.9811331,
+          "neighborhood": "Midtown and West Side",
+          "region": "manhattan",
+          "vibes": [
+            "budget"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "c66c7d9d-0b07-5616-b484-94a25cf0039d",
+          "title": "Simple comforts: Amber apartment in Manhattan",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "This apartment makes useful room for unpacking with shelves beside the sitting area. Functional shelves and an easy-care seating area make this an economical place to unpack. The emphasis is on daily convenience rather than premium finishes or concierge-style extras. Up to 2 guests can stay here, using an open-plan sleeping area.",
+          "price_minor": 10400,
+          "currency": "USD",
+          "rating": 4.36,
+          "bedrooms": 0,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "elevator",
+            "kitchen",
+            "wifi"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7637733,
+          "longitude": -73.9857903,
+          "neighborhood": "Midtown and West Side",
+          "region": "manhattan",
+          "vibes": [
+            "budget"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "ab3ea2d0-2da0-57e7-94fd-1bf94b1fa37f",
+          "title": "Weekday retreat: Amber apartment in Manhattan",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "A compact entry leads into the apartment's main living space without wasted corridors. A small desk organizer and sensible lighting give longer laptop sessions a more comfortable setting. The rest of the room stays relaxed enough to switch off after work. With an open-plan sleeping area, the home welcomes a maximum of 2 guests.",
+          "price_minor": 13700,
+          "currency": "USD",
+          "rating": 4.78,
+          "bedrooms": 0,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "elevator",
+            "kitchen",
+            "pet_friendly",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.7555288,
+          "longitude": -73.9774232,
+          "neighborhood": "Midtown and West Side",
+          "region": "manhattan",
+          "vibes": [
+            "business trip"
+          ],
+          "synthetic": true
+        }
+      ],
+      "scores": [
+        0.63908,
+        0.63339,
+        0.60455,
+        0.59846
+      ],
+      "eligible_total": 4,
+      "explanation": "Showing 4 of 4 eligible stays in manhattan, $102.00\u2013$137.00 USD/night. Every shown stay satisfies the interpreted hard filters. Ranked for budget; vibe similarity is not a guarantee. Offline demo: saved interpretation and ranking; no provider request.",
+      "bounds": [
+        [
+          -73.9857903,
+          40.7505904
+        ],
+        [
+          -73.9774232,
+          40.7637733
+        ]
+      ],
+      "source": "demo",
+      "ranking": "fastembed",
+      "cached": false
+    }
+  },
+  {
+    "query": "Lively Brooklyn nightlife under $220 with air conditioning",
+    "response": {
+      "query": "Lively Brooklyn nightlife under $220 with air conditioning",
+      "intent": {
+        "price_min_minor": null,
+        "price_max_minor": 22000,
+        "guests": null,
+        "bedrooms": null,
+        "property_type": null,
+        "region": "brooklyn",
+        "amenities": [
+          "air_conditioning"
+        ],
+        "vibes": [
+          "nightlife"
+        ]
+      },
+      "items": [
+        {
+          "id": "9885e2ce-9d0d-577e-881a-bb2d6c383b0a",
+          "title": "Evening lights: Willow apartment in Brooklyn",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "The sitting area works well for comparing evening plans over a snack. Expect a lively design sensibility rather than a secluded countryside atmosphere. The stay has an open-plan sleeping area and accommodates up to 2 guests. This apartment makes useful room for unpacking with shelves beside the sitting area.",
+          "price_minor": 10800,
+          "currency": "USD",
+          "rating": 4.84,
+          "bedrooms": 0,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "elevator",
+            "kitchen",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.6752092,
+          "longitude": -73.9790673,
+          "neighborhood": "Park Slope",
+          "region": "brooklyn",
+          "vibes": [
+            "nightlife"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "12970666-a954-5340-ba4d-554816317e78",
+          "title": "Late breakfast: Willow apartment in Brooklyn",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "Illustrated music posters give the lounge its personality without turning the home into a club. It is an easygoing base for travelers who want dinner, conversation, and a late return. The apartment keeps its cooking and sitting areas close together for easy everyday use. With one separate bedroom, the home welcomes a maximum of 3 guests including a sofa bed.",
+          "price_minor": 17500,
+          "currency": "USD",
+          "rating": 4.94,
+          "bedrooms": 1,
+          "max_guests": 3,
+          "amenities": [
+            "air_conditioning",
+            "kitchen",
+            "pet_friendly",
+            "wifi"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.6804596,
+          "longitude": -73.9781964,
+          "neighborhood": "Park Slope",
+          "region": "brooklyn",
+          "vibes": [
+            "nightlife"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "b7a11ad1-43fc-5405-93c8-2f68e8b15182",
+          "title": "Soft evening: Willow apartment in Brooklyn",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "Up to 2 guests can stay here, using one separate bedroom. Art prints and a small flower vase give the dining corner a personal touch. The setting works well for visitors planning leisurely walks and evenings together indoors. This apartment makes useful room for unpacking with shelves beside the sitting area.",
+          "price_minor": 13700,
+          "currency": "USD",
+          "rating": 4.66,
+          "bedrooms": 1,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "kitchen",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.6822875,
+          "longitude": -73.9822707,
+          "neighborhood": "Park Slope",
+          "region": "brooklyn",
+          "vibes": [
+            "romantic"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "026b4b8b-065d-5e3a-816e-dc47aa56367f",
+          "title": "City rhythm: Juniper apartment in Brooklyn",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "Illustrated music posters give the lounge its personality without turning the home into a club. It is an easygoing base for travelers who want dinner, conversation, and a late return. Sleeping arrangements use one separate bedroom, with space for up to 1 guests. A compact entry leads into the apartment's main living space without wasted corridors.",
+          "price_minor": 15200,
+          "currency": "USD",
+          "rating": 4.81,
+          "bedrooms": 1,
+          "max_guests": 1,
+          "amenities": [
+            "air_conditioning",
+            "kitchen",
+            "washer",
+            "wifi"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.6709758,
+          "longitude": -73.9829571,
+          "neighborhood": "Park Slope",
+          "region": "brooklyn",
+          "vibes": [
+            "nightlife"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "9a705ed5-e6ba-5f7b-8551-4209ba5a7efa",
+          "title": "Evening lights: Amber apartment in Brooklyn",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "Jewel-colored cushions and a breakfast bar make short city breaks feel festive. The layout is aimed at guests who spend evenings out and prefer leisurely starts the next morning. With one separate bedroom, the home welcomes a maximum of 2 guests. The apartment keeps its cooking and sitting areas close together for easy everyday use.",
+          "price_minor": 15800,
+          "currency": "USD",
+          "rating": 4.59,
+          "bedrooms": 1,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "kitchen",
+            "wifi"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.6715685,
+          "longitude": -73.9824916,
+          "neighborhood": "Park Slope",
+          "region": "brooklyn",
+          "vibes": [
+            "nightlife"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "160a25eb-fccb-5f02-b58f-23c94a08ef08",
+          "title": "Slow morning: Amber apartment in Brooklyn",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "The stay has one separate bedroom and accommodates up to 4 guests including a sofa bed. The bedroom has blackout curtains and a bedside reading light for guests who like an early night. Shared-space etiquette favors conversation at a low volume after dinner. The apartment's dining corner is deliberately small enough to leave the lounge open.",
+          "price_minor": 18500,
+          "currency": "USD",
+          "rating": 4.81,
+          "bedrooms": 1,
+          "max_guests": 4,
+          "amenities": [
+            "air_conditioning",
+            "elevator",
+            "kitchen",
+            "pet_friendly",
+            "wifi"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.6735219,
+          "longitude": -73.9797829,
+          "neighborhood": "Park Slope",
+          "region": "brooklyn",
+          "vibes": [
+            "quiet"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "32c644a3-27f3-505b-96c6-e47c25d9189b",
+          "title": "Home together: Juniper apartment in Brooklyn",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "The apartment's dining corner is deliberately small enough to leave the lounge open. Picture books and simple board games give younger visitors something to do between excursions. The atmosphere is practical and welcoming rather than filled with delicate display pieces. With 2 separate bedrooms, the home welcomes a maximum of 4 guests.",
+          "price_minor": 17800,
+          "currency": "USD",
+          "rating": 4.69,
+          "bedrooms": 2,
+          "max_guests": 4,
+          "amenities": [
+            "air_conditioning",
+            "crib",
+            "elevator",
+            "kitchen",
+            "pet_friendly",
+            "washer",
+            "wifi"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.6799085,
+          "longitude": -73.9807848,
+          "neighborhood": "Park Slope",
+          "region": "brooklyn",
+          "vibes": [
+            "family-friendly"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "5ed372cb-78d4-51d3-aed7-94aa6107b1fc",
+          "title": "Shared table: Maple apartment in Brooklyn",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "The apartment's dining corner is deliberately small enough to leave the lounge open. The layout favors shared meals, with a kitchen that opens toward the gathering space. A basket for toys helps keep the floor clear when the day winds down. The stay has 2 separate bedrooms and accommodates up to 4 guests.",
+          "price_minor": 16500,
+          "currency": "USD",
+          "rating": 4.51,
+          "bedrooms": 2,
+          "max_guests": 4,
+          "amenities": [
+            "air_conditioning",
+            "crib",
+            "kitchen",
+            "washer",
+            "wifi"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.6781828,
+          "longitude": -73.9835555,
+          "neighborhood": "Park Slope",
+          "region": "brooklyn",
+          "vibes": [
+            "family-friendly"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "b6daa3af-92b4-5a6a-b0dd-0dd45501f221",
+          "title": "Soft evening: Maple loft in Brooklyn",
+          "pictures": [
+            "/static/placeholders/loft.svg"
+          ],
+          "description": "Linen textures and warm pools of light give the rooms a softly layered feel. The small dining table invites an unhurried meal without the formality of a restaurant. Up to 2 guests can stay here, using one separate bedroom. The loft's industrial-inspired shelving adds character without filling the open floor space.",
+          "price_minor": 18100,
+          "currency": "USD",
+          "rating": 4.96,
+          "bedrooms": 1,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "kitchen",
+            "pet_friendly",
+            "wifi"
+          ],
+          "property_type": "loft",
+          "latitude": 40.6812324,
+          "longitude": -73.978724,
+          "neighborhood": "Park Slope",
+          "region": "brooklyn",
+          "vibes": [
+            "romantic"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "60dd9e66-af19-5053-b507-694803f876be",
+          "title": "Family days: Juniper apartment in Brooklyn",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "Up to 4 guests can stay here, using 2 separate bedrooms. The layout favors shared meals, with a kitchen that opens toward the gathering space. A basket for toys helps keep the floor clear when the day winds down. A compact entry leads into the apartment's main living space without wasted corridors.",
+          "price_minor": 20500,
+          "currency": "USD",
+          "rating": 4.82,
+          "bedrooms": 2,
+          "max_guests": 4,
+          "amenities": [
+            "air_conditioning",
+            "crib",
+            "elevator",
+            "kitchen",
+            "washer",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.6731685,
+          "longitude": -73.9781185,
+          "neighborhood": "Park Slope",
+          "region": "brooklyn",
+          "vibes": [
+            "family-friendly"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "4485f76e-3c39-5e0e-8e3f-9704908603a2",
+          "title": "Lamplight: Cedar apartment in Brooklyn",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "The apartment keeps its cooking and sitting areas close together for easy everyday use. Linen textures and warm pools of light give the rooms a softly layered feel. The small dining table invites an unhurried meal without the formality of a restaurant. Sleeping arrangements use one separate bedroom, with space for up to 2 guests.",
+          "price_minor": 17500,
+          "currency": "USD",
+          "rating": 4.84,
+          "bedrooms": 1,
+          "max_guests": 2,
+          "amenities": [
+            "air_conditioning",
+            "kitchen",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.6715399,
+          "longitude": -73.9780365,
+          "neighborhood": "Park Slope",
+          "region": "brooklyn",
+          "vibes": [
+            "romantic"
+          ],
+          "synthetic": true
+        },
+        {
+          "id": "590914cd-e720-5124-a7d7-afedd762b675",
+          "title": "Tea and pages: Willow apartment in Brooklyn",
+          "pictures": [
+            "/static/placeholders/apartment.svg"
+          ],
+          "description": "The stay has one separate bedroom and accommodates up to 4 guests including a sofa bed. Soft curtains and a tucked-away breakfast corner give this stay a sheltered feel. The house notes ask guests to keep late arrivals quiet, making it a good match for early sleepers. This apartment makes useful room for unpacking with shelves beside the sitting area.",
+          "price_minor": 15600,
+          "currency": "USD",
+          "rating": 4.85,
+          "bedrooms": 1,
+          "max_guests": 4,
+          "amenities": [
+            "air_conditioning",
+            "elevator",
+            "kitchen",
+            "wifi",
+            "workspace"
+          ],
+          "property_type": "apartment",
+          "latitude": 40.6723594,
+          "longitude": -73.9785036,
+          "neighborhood": "Park Slope",
+          "region": "brooklyn",
+          "vibes": [
+            "quiet"
+          ],
+          "synthetic": true
+        }
+      ],
+      "scores": [
+        0.69927,
+        0.67484,
+        0.66979,
+        0.66547,
+        0.65676,
+        0.64954,
+        0.64773,
+        0.64098,
+        0.63874,
+        0.63761,
+        0.63354,
+        0.63285
+      ],
+      "eligible_total": 30,
+      "explanation": "Showing 12 of 30 eligible stays in brooklyn, $108.00\u2013$205.00 USD/night. Every shown stay satisfies the interpreted hard filters. Ranked for nightlife; vibe similarity is not a guarantee. Offline demo: saved interpretation and ranking; no provider request.",
+      "bounds": [
+        [
+          -73.9835555,
+          40.6709758
+        ],
+        [
+          -73.9780365,
+          40.6822875
+        ]
+      ],
+      "source": "demo",
+      "ranking": "fastembed",
+      "cached": false
+    }
+  }
+]

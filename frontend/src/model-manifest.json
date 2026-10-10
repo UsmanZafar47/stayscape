@@ -1,0 +1,58 @@
+[
+  {
+    "type": "apartment",
+    "pack": "commercial",
+    "source": "building-f.glb",
+    "url": "/models/apartment.glb",
+    "widthMeters": 16,
+    "heightRatio": 1.6436890614967037,
+    "bytes": 110508,
+    "originalBytes": 148952,
+    "gzipBytes": 31539,
+    "triangles": 1794,
+    "primitives": 1,
+    "sha256": "302fcda7a7330dff2aaee127f144abc80600315d3852c6da424a60462b8d0707"
+  },
+  {
+    "type": "townhouse",
+    "pack": "suburban",
+    "source": "building-type-k.glb",
+    "url": "/models/townhouse.glb",
+    "widthMeters": 10,
+    "heightRatio": 1.1270551331287297,
+    "bytes": 68072,
+    "originalBytes": 89152,
+    "gzipBytes": 25678,
+    "triangles": 1024,
+    "primitives": 1,
+    "sha256": "7e618bea3ad5e7f7173e2586ad7d2eaeb21009bc4ab5866531c60f1f43cf6d0d"
+  },
+  {
+    "type": "house",
+    "pack": "suburban",
+    "source": "building-type-a.glb",
+    "url": "/models/house.glb",
+    "widthMeters": 13,
+    "heightRatio": 0.6411853897089368,
+    "bytes": 76208,
+    "originalBytes": 98604,
+    "gzipBytes": 26868,
+    "triangles": 1174,
+    "primitives": 1,
+    "sha256": "e3037dce405a968c11d12287ac422173b3ba700c68103f9e718fbb2fe0c40573"
+  },
+  {
+    "type": "loft",
+    "pack": "industrial",
+    "source": "building-a.glb",
+    "url": "/models/loft.glb",
+    "widthMeters": 20,
+    "heightRatio": 0.7055136896072611,
+    "bytes": 123980,
+    "originalBytes": 177316,
+    "gzipBytes": 37498,
+    "triangles": 2046,
+    "primitives": 1,
+    "sha256": "62307d1567865731eeb2981cdf1bada5045e59a2f9dad18026f81e6a725290bd"
+  }
+]

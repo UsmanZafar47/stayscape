@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-10",
+  "environment": "Docker Desktop Linux, Python 3.12.13, Uvicorn one worker",
+  "limits": {"memory_mib": 512, "network": "none", "filesystem": "read-only except /tmp"},
+  "startup_rss_mib": 88.7,
+  "after_search_rss_mib": [338.4, 339.0, 339.1],
+  "observed_worker_peak_mib": 339.1,
+  "ranking": "fastembed",
+  "health_ok": true,
+  "demo_without_network_ok": true,
+  "sqlite_write_rejected": true,
+  "note": "Sequential representative searches, not a concurrent load or long-running memory guarantee. Measurements from /proc/1/status in the running container."
+}

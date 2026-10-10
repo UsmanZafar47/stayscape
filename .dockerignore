@@ -1,0 +1,19 @@
+# Allowlist the build context: no local secrets, environments, data or frontend artifacts.
+**
+!Dockerfile
+!.dockerignore
+!backend/
+!backend/requirements.lock
+!backend/app/
+!backend/app/**
+!backend/config/
+!backend/config/**
+!backend/static/
+!backend/static/**
+!scripts/
+!scripts/measure_memory.py
+# Re-exclude Python caches inside the allowed source tree.
+**/__pycache__/
+**/*.pyc
+**/.env
+**/.env.*

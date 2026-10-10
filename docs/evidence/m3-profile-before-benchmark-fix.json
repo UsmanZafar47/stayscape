@@ -1,0 +1,261 @@
+{
+  "instances": 300,
+  "seconds": 8.07,
+  "deckFrames": 157,
+  "averageFps": 19.5,
+  "p95FrameMs": 252.8,
+  "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00009A49) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+  "viewport": "1280×800 @ DPR 1 (render cap 1.5)",
+  "declutterP95Ms": 2.9,
+  "coldOrbit": {
+    "instances": 300,
+    "seconds": 8.19,
+    "deckFrames": 244,
+    "averageFps": 29.8,
+    "p95FrameMs": 190,
+    "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00009A49) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+    "viewport": "1280×800 @ DPR 1 (render cap 1.5)",
+    "declutterP95Ms": 2.5
+  },
+  "basemapOnly": {
+    "instances": 0,
+    "seconds": 8.02,
+    "deckFrames": 440,
+    "averageFps": 54.9,
+    "p95FrameMs": 25.6,
+    "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00009A49) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+    "viewport": "1280×800 @ DPR 1 (render cap 1.5)",
+    "declutterP95Ms": 0.2
+  },
+  "hotFunctions": [
+    {
+      "functionName": "(program)",
+      "scriptId": "0",
+      "url": "",
+      "lineNumber": -1,
+      "columnNumber": -1,
+      "samples": 209
+    },
+    {
+      "functionName": "(idle)",
+      "scriptId": "0",
+      "url": "",
+      "lineNumber": -1,
+      "columnNumber": -1,
+      "samples": 189
+    },
+    {
+      "functionName": "getCSSContent",
+      "scriptId": "21",
+      "url": "",
+      "lineNumber": 3617,
+      "columnNumber": 22,
+      "samples": 100
+    },
+    {
+      "functionName": "getCSSContent",
+      "scriptId": "21",
+      "url": "",
+      "lineNumber": 3617,
+      "columnNumber": 22,
+      "samples": 100
+    },
+    {
+      "functionName": "(garbage collector)",
+      "scriptId": "0",
+      "url": "",
+      "lineNumber": -1,
+      "columnNumber": -1,
+      "samples": 100
+    },
+    {
+      "functionName": "getCSSContent",
+      "scriptId": "21",
+      "url": "",
+      "lineNumber": 3617,
+      "columnNumber": 22,
+      "samples": 90
+    },
+    {
+      "functionName": "n",
+      "scriptId": "9",
+      "url": "http://127.0.0.1:4173/assets/index-DubKDiPn.js",
+      "lineNumber": 9763,
+      "columnNumber": 16233,
+      "samples": 89
+    },
+    {
+      "functionName": "getCSSContent",
+      "scriptId": "21",
+      "url": "",
+      "lineNumber": 3617,
+      "columnNumber": 22,
+      "samples": 80
+    },
+    {
+      "functionName": "getComputedStyle",
+      "scriptId": "0",
+      "url": "",
+      "lineNumber": -1,
+      "columnNumber": -1,
+      "samples": 55
+    },
+    {
+      "functionName": "getComputedStyle",
+      "scriptId": "0",
+      "url": "",
+      "lineNumber": -1,
+      "columnNumber": -1,
+      "samples": 50
+    },
+    {
+      "functionName": "getComputedStyle",
+      "scriptId": "0",
+      "url": "",
+      "lineNumber": -1,
+      "columnNumber": -1,
+      "samples": 49
+    },
+    {
+      "functionName": "visit",
+      "scriptId": "21",
+      "url": "",
+      "lineNumber": 4041,
+      "columnNumber": 16,
+      "samples": 42
+    },
+    {
+      "functionName": "getCSSContent",
+      "scriptId": "21",
+      "url": "",
+      "lineNumber": 3617,
+      "columnNumber": 22,
+      "samples": 40
+    },
+    {
+      "functionName": "getComputedStyle",
+      "scriptId": "0",
+      "url": "",
+      "lineNumber": -1,
+      "columnNumber": -1,
+      "samples": 38
+    },
+    {
+      "functionName": "pD",
+      "scriptId": "9",
+      "url": "http://127.0.0.1:4173/assets/index-DubKDiPn.js",
+      "lineNumber": 9,
+      "columnNumber": 644787,
+      "samples": 37
+    },
+    {
+      "functionName": "checkVisibility",
+      "scriptId": "0",
+      "url": "",
+      "lineNumber": -1,
+      "columnNumber": -1,
+      "samples": 35
+    },
+    {
+      "functionName": "getElementComputedStyle",
+      "scriptId": "21",
+      "url": "",
+      "lineNumber": 3132,
+      "columnNumber": 32,
+      "samples": 35
+    },
+    {
+      "functionName": "visit",
+      "scriptId": "21",
+      "url": "",
+      "lineNumber": 4041,
+      "columnNumber": 16,
+      "samples": 34
+    },
+    {
+      "functionName": "innerAccumulatedElementText",
+      "scriptId": "21",
+      "url": "",
+      "lineNumber": 4038,
+      "columnNumber": 36,
+      "samples": 33
+    },
+    {
+      "functionName": "getElementComputedStyle",
+      "scriptId": "21",
+      "url": "",
+      "lineNumber": 3132,
+      "columnNumber": 32,
+      "samples": 32
+    },
+    {
+      "functionName": "visit",
+      "scriptId": "21",
+      "url": "",
+      "lineNumber": 4041,
+      "columnNumber": 16,
+      "samples": 32
+    },
+    {
+      "functionName": "getCSSContent",
+      "scriptId": "21",
+      "url": "",
+      "lineNumber": 3617,
+      "columnNumber": 22,
+      "samples": 30
+    },
+    {
+      "functionName": "visit",
+      "scriptId": "21",
+      "url": "",
+      "lineNumber": 4041,
+      "columnNumber": 16,
+      "samples": 29
+    },
+    {
+      "functionName": "getElementComputedStyle",
+      "scriptId": "21",
+      "url": "",
+      "lineNumber": 3132,
+      "columnNumber": 32,
+      "samples": 29
+    },
+    {
+      "functionName": "innerAccumulatedElementText",
+      "scriptId": "21",
+      "url": "",
+      "lineNumber": 4038,
+      "columnNumber": 36,
+      "samples": 29
+    }
+  ],
+  "readyMs": 11743,
+  "modelPhaseMs": 8000.399999976158,
+  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0",
+  "resources": [
+    {
+      "url": "/models/apartment.glb",
+      "durationMs": 14.6,
+      "transferredBytes": 110808,
+      "decodedBytes": 110508
+    },
+    {
+      "url": "/models/townhouse.glb",
+      "durationMs": 14.8,
+      "transferredBytes": 68372,
+      "decodedBytes": 68072
+    },
+    {
+      "url": "/models/house.glb",
+      "durationMs": 23.2,
+      "transferredBytes": 76508,
+      "decodedBytes": 76208
+    },
+    {
+      "url": "/models/loft.glb",
+      "durationMs": 16.1,
+      "transferredBytes": 124280,
+      "decodedBytes": 123980
+    }
+  ]
+}

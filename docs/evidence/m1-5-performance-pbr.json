@@ -1,0 +1,38 @@
+{
+  "instances": 300,
+  "seconds": 8.08,
+  "deckFrames": 184,
+  "averageFps": 22.8,
+  "p95FrameMs": 68.7,
+  "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00009A49) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+  "viewport": "1280×800 @ DPR 1 (render cap 1.5)",
+  "readyMs": 5911,
+  "modelPhaseMs": 1264.7999999523163,
+  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0",
+  "resources": [
+    {
+      "url": "/models/apartment.glb",
+      "durationMs": 10.3,
+      "transferredBytes": 110808,
+      "decodedBytes": 110508
+    },
+    {
+      "url": "/models/townhouse.glb",
+      "durationMs": 8.6,
+      "transferredBytes": 68372,
+      "decodedBytes": 68072
+    },
+    {
+      "url": "/models/house.glb",
+      "durationMs": 14.1,
+      "transferredBytes": 76508,
+      "decodedBytes": 76208
+    },
+    {
+      "url": "/models/loft.glb",
+      "durationMs": 11.1,
+      "transferredBytes": 124280,
+      "decodedBytes": 123980
+    }
+  ]
+}

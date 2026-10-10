@@ -1,0 +1,37 @@
+﻿{
+    "items":  [
+                  {
+                      "id":  "010eb7d2-b21c-5f1a-b7e3-0bd489efcd47",
+                      "title":  "Balcony journal: Olive loft in Queens",
+                      "pictures":  [
+                                       "/static/placeholders/loft.svg"
+                                   ],
+                      "description":  "With an open-plan sleeping area, the home welcomes a maximum of 2 guests. A furnished balcony gives morning coffee a place outdoors above the everyday street scene. The living area keeps the window wall open so changing daylight becomes part of the room. An open-plan lounge gives this loft an airy character, with a clearly defined dining corner.",
+                      "price_minor":  12800,
+                      "currency":  "USD",
+                      "rating":  4.78,
+                      "bedrooms":  0,
+                      "max_guests":  2,
+                      "amenities":  [
+                                        "air_conditioning",
+                                        "balcony",
+                                        "kitchen",
+                                        "pet_friendly",
+                                        "washer",
+                                        "wifi"
+                                    ],
+                      "property_type":  "loft",
+                      "latitude":  40.7646455,
+                      "longitude":  -73.9172495,
+                      "neighborhood":  "Astoria",
+                      "region":  "queens",
+                      "vibes":  [
+                                    "scenic"
+                                ],
+                      "synthetic":  true
+                  }
+              ],
+    "total":  58,
+    "limit":  1,
+    "offset":  0
+}

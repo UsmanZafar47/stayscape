@@ -1,0 +1,19 @@
+{
+  "scope": "lean M3 + M4",
+  "m5_m6_started": false,
+  "backend_tests": {"passed": 79, "failed": 0},
+  "frontend_build_and_typecheck": "passed",
+  "frontend_client_and_component_checks": {"passed": 7, "failed": 0},
+  "search_browser_smoke": {"passed": 1, "failed": 0},
+  "provider_mock_smoke": "one validation repair succeeds; persistent invalid JSON uses rules",
+  "live_provider_tested": false,
+  "embedding": {"engine": "fastembed", "model": "BAAI/bge-small-en-v1.5", "dimensions": 384, "listings": 300},
+  "tfidf_fallback_needed": false,
+  "offline_examples": 7,
+  "screenshot": "m4-ai-query.png",
+  "notes": [
+    "The first search browser run was interrupted by a long environment pause; the resumed run passed.",
+    "The final screenshot uses an explicitly labeled provider-free saved demo response.",
+    "No live provider key/model was supplied; provider access is disabled by default."
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "apartment": [
+    "/static/placeholders/apartment.svg"
+  ],
+  "townhouse": [
+    "/static/placeholders/townhouse.svg"
+  ],
+  "house": [
+    "/static/placeholders/house.svg"
+  ],
+  "loft": [
+    "/static/placeholders/loft.svg"
+  ]
+}

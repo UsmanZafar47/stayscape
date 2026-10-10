@@ -1,0 +1,168 @@
+/* System fonts avoid external font requests in this spike. */
+:root { font-family: Inter, ui-sans-serif, system-ui, -apple-system, sans-serif; color: #e9eeeb; background: #111820; font-synthesis: none; }
+* { box-sizing: border-box; }
+body { margin: 0; }
+button { font: inherit; color: inherit; cursor: pointer; }
+button:disabled { opacity: .5; cursor: wait; }
+button:focus-visible { outline: 2px solid #a0f2cf; outline-offset: -3px; }
+.app { display: grid; grid-template-columns: 350px minmax(0, 1fr); height: 100dvh; min-height: 560px; }
+.sidebar { display: flex; flex-direction: column; background: #141c24; border-right: 1px solid #303a42; min-height: 0; z-index: 2; }
+.brand { display: flex; align-items: center; gap: 11px; padding: 28px 26px 20px; font-size: 23px; font-weight: 700; letter-spacing: -.8px; }
+.brand-mark { display: grid; place-items: center; border: 1px solid #a4e5c7; color: #b9f0d7; width: 36px; height: 40px; border-radius: 12px 3px 12px 3px; font-family: Georgia, serif; }
+.brand small { display: block; color: #87998f; font-size: 8px; letter-spacing: 2.4px; margin-top: 2px; }
+.intro { padding: 20px 26px 23px; }
+.eyebrow { color: #9aaea7; font-size: 9px; font-weight: 650; letter-spacing: 1.7px; }
+h1 { font-family: Georgia, serif; font-weight: 400; font-size: 44px; line-height: 1.03; letter-spacing: -1.8px; margin: 15px 0; }
+h1 em { color: #b7e9cf; font-weight: 400; }
+.intro p { color: #91a0a8; font-size: 12px; line-height: 1.8; margin: 0; }
+.collection-heading { display: flex; justify-content: space-between; padding: 15px 26px; border-block: 1px solid #2a343c; font-size: 11px; }
+.collection-heading span { color: #8e9ba4; font-size: 10px; }
+.listing-list { flex: 1; overflow-y: auto; min-height: 100px; scrollbar-width: thin; scrollbar-color: #45574f transparent; }
+.listing-row { display: flex; width: 100%; align-items: center; gap: 12px; border: 0; border-bottom: 1px solid #253039; background: transparent; padding: 18px 23px; text-align: left; }
+.listing-row:hover, .listing-row.selected { background: #20332f; }
+.listing-row.selected { box-shadow: inset 3px 0 #a0e8c7; }
+.listing-number { font-size: 10px; font-variant-numeric: tabular-nums; }
+.listing-copy { flex: 1; min-width: 0; }
+.listing-copy strong { display: block; font-size: 11px; font-weight: 550; }
+.listing-copy small { display: block; color: #8b9ba3; font-size: 10px; margin-top: 6px; }
+.listing-price { font-size: 12px; text-align: right; }
+.listing-price small { display: block; color: #a7c1b3; margin-top: 6px; }
+.sidebar-tip { color: #a9b8b5; font-size: 11px; line-height: 1.8; padding: 20px 26px; background: #18252a; }
+.sidebar footer { display: flex; align-items: center; gap: 6px; padding: 16px 20px; color: #9caaa9; font-size: 8px; letter-spacing: .6px; }
+.sidebar footer > span:last-child { margin-left: auto; letter-spacing: 0; }
+.live-dot { display: inline-block; width: 6px; height: 6px; background: #b9eccd; border-radius: 50%; flex-shrink: 0; }
+.selection { background: #21352e; padding: 18px 24px; border-top: 1px solid #527163; }
+.selection > div { display: flex; justify-content: space-between; align-items: center; }
+.selection button { border: 0; background: none; font-size: 21px; }
+.selection h2 { font-family: Georgia, serif; font-weight: 400; margin: 10px 0 6px; font-size: 21px; }
+.selection p { color: #b6c7be; font-size: 11px; margin: 0 0 16px; }
+.selection > strong { font-size: 19px; display: block; }
+.selection strong small { font-size: 10px; color: #acc4b7; font-weight: 400; }
+.selection strong span { float: right; font-size: 12px; margin-top: 5px; }
+.map-shell { position: relative; min-width: 0; background: #101417; overflow: hidden; }
+/* Isolate deck's positioned canvas so it cannot paint over React's map controls/cards. */
+.map-canvas { position: absolute; inset: 0; z-index: 0; }
+.map-heading { position: absolute; top: 27px; left: 25px; display: flex; align-items: center; gap: 9px; font-size: 10px; letter-spacing: 1.5px; background: #141c24ed; border: 1px solid #35413f; padding: 13px 15px; border-radius: 4px; pointer-events: none; }
+.map-heading > span:last-child { color: #859991; font-size: 8px; margin-left: 16px; }
+.map-actions { position: absolute; top: 82px; left: 25px; display: flex; gap: 8px; }
+.map-actions button, .map-message button { background: #17242cec; border: 1px solid #475951; border-radius: 4px; padding: 9px 12px; font-size: 11px; }
+.legend { position: absolute; bottom: 77px; left: 25px; background: #141e26f2; border: 1px solid #3c4b49; border-radius: 6px; padding: 17px 19px; pointer-events: none; }
+.legend > strong { display: block; font-family: Georgia, serif; font-size: 18px; font-weight: 400; margin: 8px 0 15px; }
+.rating-key { display: flex; gap: 17px; font-size: 10px; color: #c9d5d0; }
+.rating-key i { display: inline-block; width: 7px; height: 12px; margin-right: 6px; border-radius: 2px; vertical-align: middle; }
+.gold { background: #eeba6f; }.blue { background: #85b6ef; }.mint { background: #6fe1b9; }
+.legend > small { display: block; color: #95a6a5; font-size: 9px; margin-top: 12px; }
+.map-hint { position: absolute; left: 25px; bottom: 35px; color: #b6c7bd; font-size: 9px; text-shadow: 0 1px 5px #000; pointer-events: none; }
+.map-hint span { display: block; color: #a6b0b3; margin-top: 5px; }
+.hover-card { position: absolute; z-index: 5; width: 240px; padding: 14px 16px; border-radius: 7px; color: #192923; background: #f0f6ee; box-shadow: 0 8px 35px #0005; pointer-events: none; }
+.hover-card .eyebrow { color: #4f6a5b; font-size: 8px; }
+.hover-card strong { display: block; margin: 6px 0 10px; font-size: 13px; }
+.hover-card > span:not(.eyebrow) { font-size: 12px; }.hover-card b { float: right; }
+.hover-card small { display: block; margin-top: 9px; color: #63766a; font-size: 10px; }
+.map-message { position: absolute; top: 40%; left: 50%; transform: translateX(-50%); width: min(360px, 90%); padding: 20px; background: #15252ef5; border: 1px solid #54776a; border-radius: 8px; font-size: 13px; text-align: center; z-index: 6; }
+.map-message.error { border-color: #d9a47b; }.map-message p { margin-top: 0; line-height: 1.6; }
+.maplibregl-ctrl-attrib { font-size: 9px !important; background: #e7ece3e8 !important; }
+.maplibregl-ctrl-top-right { top: 16px; right: 10px; }
+.config-error { margin: 50px; padding: 25px; border: 1px solid #d9a47b; }
+.model-thumbnail { width: 44px; height: 44px; display: grid; place-items: center; flex-shrink: 0; background: #293a41; border-radius: 10px; position: relative; }
+.model-thumbnail img { width: 48px; height: 48px; object-fit: contain; }
+.model-thumbnail i { width: 6px; height: 6px; border-radius: 50%; position: absolute; right: 3px; bottom: 3px; }
+.listing-row { padding: 13px 20px; gap: 10px; }
+.hover-card { animation: card-appear 160ms ease-out; }
+@keyframes card-appear { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+@media (prefers-reduced-motion: reduce) { .hover-card { animation: none; } }
+.benchmark-panel { position: absolute; top: 135px; left: 25px; padding: 14px; background: #14252fef; border: 1px solid #608176; border-radius: 6px; z-index: 4; font-size: 11px; max-width: calc(100% - 80px); }
+.benchmark-panel strong, .benchmark-panel span { display: block; margin-bottom: 8px; }
+.benchmark-panel button { border: 1px solid #80b398; border-radius: 4px; padding: 8px; background: #294638; }
+.benchmark-panel pre { white-space: pre-wrap; font-size: 10px; max-width: 340px; }
+@media (max-width: 760px) {
+  .app { grid-template-columns: 1fr; grid-template-rows: 58dvh auto; height: auto; min-height: 100dvh; }
+  .map-shell { grid-row: 1; min-height: 380px; }
+  .sidebar { border-right: 0; }.brand { padding: 20px 22px 10px; }
+  .intro { padding: 10px 22px 20px; }h1 { font-size: 36px; }h1 br { display: none; }h1 em { margin-left: 8px; }
+  .intro p { display: none; }.listing-list { max-height: 270px; flex: auto; }
+  .map-heading { top: 15px; left: 12px; padding: 11px; }.map-heading > span:last-child { display: none; }
+  .map-actions { top: 61px; left: 12px; }.map-actions button { font-size: 10px; padding: 8px; }
+  .legend { left: 12px; bottom: 64px; padding: 12px; }.legend > strong { font-size: 15px; margin: 6px 0 10px; }
+  .legend > small { font-size: 8px; }.map-hint { left: 12px; bottom: 28px; font-size: 8px; }
+}
+/* M3: controls and legend occupy sidebar flow, never the map canvas. */
+.brand { padding: 18px 22px 10px; }
+.intro { padding: 10px 22px 14px; }
+h1 { font-size: 30px; margin: 8px 0; line-height: 1.1; }
+.filters { padding: 0 22px 12px; font-size: 11px; }
+.filter-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 10px; }
+.filters label { display: block; color: #afc1b9; }
+.filters input, .filters select { display: block; width: 100%; min-width: 0; margin-top: 5px; padding: 8px; color: #edf5ef; background: #20302f; border: 1px solid #4b6358; border-radius: 4px; font: inherit; }
+.text-button { border: 0; background: none; color: #b7e9cf; padding: 9px 0 0; font-size: 11px; text-decoration: underline; }
+.filters p { color: #f6c6a0; line-height: 1.5; }
+.api-status { padding: 0 22px; font-size: 12px; line-height: 1.5; }
+.api-status button { background: #294638; border: 1px solid #80b398; border-radius: 4px; padding: 7px; margin-bottom: 12px; }
+.sidebar-legend { padding: 12px 22px; border-top: 1px solid #35483d; font-size: 11px; color: #b5c6bd; }
+.sidebar-legend summary { cursor: pointer; }
+.sidebar-legend .rating-key { margin-top: 12px; }
+.sidebar-legend p { line-height: 1.6; margin-bottom: 0; }
+.details-panel { position: absolute; z-index: 4; right: 18px; top: 140px; bottom: 35px; width: 295px; overflow-y: auto; border: 1px solid #527163; border-radius: 8px; padding: 18px; box-shadow: 0 8px 30px #0005; animation: card-appear 180ms ease-out; }
+.detail-image { width: 100%; height: 130px; object-fit: cover; border-radius: 5px; margin-top: 10px; background: #30463c; }
+.selection .description { margin: 20px 0; line-height: 1.7; font-size: 12px; }
+.selection h3 { font-size: 12px; }
+.amenities { display: flex; flex-wrap: wrap; gap: 6px; list-style: none; margin: 0; padding: 0; }
+.amenities li { background: #30483e; padding: 6px 9px; border-radius: 15px; font-size: 10px; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+@media (max-width: 760px) {
+  .details-panel { position: relative; grid-row: 2; right: auto; top: auto; bottom: auto; width: auto; max-height: 450px; margin: 0; }
+  .sidebar { grid-row: 3; }
+  .map-shell { min-height: 380px; }
+  .app { grid-template-rows: 58dvh auto auto; }
+  .intro { padding: 10px 22px; }
+}
+@media (prefers-reduced-motion: reduce) { .details-panel { animation: none; } }
+.detail-image { object-fit: contain; }
+/* M4 keeps chat, examples and interpretation in the sidebar, outside the map. */
+.search-box { margin: 0 20px 10px; font-size: 11px; max-height: 40dvh; overflow-y: auto; flex-shrink: 0; scrollbar-width: thin; }
+.search-box label { display: block; color: #c1d8ca; font-weight: 600; margin-bottom: 7px; }
+.search-box textarea { width: 100%; resize: vertical; min-height: 56px; max-height: 120px; padding: 10px; background: #1e302c; border: 1px solid #577c68; border-radius: 6px; color: #ecf5ed; font: inherit; line-height: 1.5; }
+.search-box form > button { margin-top: 6px; width: 100%; padding: 8px; background: #b7e9cf; border: 0; border-radius: 5px; color: #16261e; font-weight: 650; }
+.search-note { color: #91a99a; font-size: 10px; line-height: 1.5; }
+.suggestions summary, .search-answer summary { cursor: pointer; color: #bbd6c5; }
+.suggestion-chips { display: flex; flex-wrap: wrap; gap: 5px; padding-top: 8px; max-height: 95px; overflow-y: auto; }
+.suggestion-chips button { padding: 7px 9px; text-align: left; font-size: 10px; line-height: 1.5; background: #243830; border: 1px solid #466454; border-radius: 10px; }
+.search-answer { margin-top: 12px; border-left: 2px solid #b7e9cf; padding-left: 10px; color: #d2e3d7; }
+.search-answer strong { color: #b7e9cf; }
+.search-answer p { line-height: 1.65; margin: 7px 0; }
+.search-answer ul { padding-left: 15px; line-height: 1.7; }
+.filter-disclosure { border-top: 1px solid #2a3d33; max-height: 36dvh; overflow-y: auto; flex-shrink: 0; }
+.filter-disclosure > summary { padding: 11px 22px; cursor: pointer; color: #c2d8c9; font-size: 11px; }
+.sidebar { overflow-y: auto; }
+.listing-list { min-height: 130px; }
+@media (max-width: 760px) { .search-box { max-height: none; } .filter-disclosure { max-height: none; } }
+.search-box { max-height: 48dvh; }
+/* M5: one scroll region on phones; controls never overlap the attribution strip. */
+.sidebar-content { display: flex; flex-direction: column; flex: 1; min-height: 0; }
+.panel-toggle { display: none; }
+.details-panel { animation: none; }
+.search-note { color: #b2c5b9; }
+button:focus-visible, summary:focus-visible { outline: 2px solid #c3f7db; outline-offset: 3px; }
+@media (max-width: 760px) {
+  .app { height: 100dvh; min-height: 480px; grid-template-rows: minmax(230px, 1fr) auto; overflow: hidden; }
+  .map-shell { grid-row: 1; min-height: 0; }
+  .sidebar { grid-row: 2; max-height: 52dvh; overflow: hidden; border-top: 1px solid #648375; border-radius: 14px 14px 0 0; }
+  .panel-toggle { display: block; flex-shrink: 0; min-height: 44px; width: 100%; border: 0; background: #263e34; color: #d6f5e2; font: inherit; font-size: 13px; }
+  .sidebar-content { overflow-y: auto; min-height: 0; padding-bottom: env(safe-area-inset-bottom); }
+  .panel-closed .sidebar-content { display: none; }
+  .sidebar-content > * { flex-shrink: 0; }
+  .listing-list { overflow: visible; max-height: none; flex: none; }
+  .search-box, .filter-disclosure { max-height: none; overflow: visible; }
+  .search-box textarea, .filters input, .filters select { font-size: 16px; }
+  .suggestion-chips button, .search-box form > button, .filter-disclosure > summary { min-height: 44px; }
+  /* Details occupy only the lower panel area, leaving the map credits unobstructed. */
+  .details-panel { position: absolute; top: auto; bottom: 0; left: 0; right: 0; width: 100%; max-height: 52dvh; margin: 0; padding-bottom: max(18px, env(safe-area-inset-bottom)); }
+  .details-panel button { min-width: 44px; min-height: 44px; }
+  .maplibregl-ctrl-attrib { max-width: calc(100vw - 20px); font-size: 10px !important; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+}
+@media (max-width: 760px) {
+  .app:has(.details-panel) .sidebar { min-height: 52dvh; }
+}

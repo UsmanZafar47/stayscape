@@ -1,0 +1,14 @@
+{
+  "valid": true,
+  "count": 300,
+  "currency": "USD",
+  "by_region": {
+    "manhattan": 60,
+    "brooklyn": 60,
+    "queens": 60,
+    "jersey-city": 60,
+    "hoboken": 60
+  },
+  "minimum_observed_spacing_m": 75.577,
+  "unique_descriptions": 300
+}

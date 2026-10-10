@@ -1,0 +1,12 @@
+﻿{
+  "USD": {
+    "minor_units": 2,
+    "region_base_minor": {
+      "manhattan": 20500,
+      "brooklyn": 16000,
+      "queens": 13000,
+      "jersey-city": 14500,
+      "hoboken": 17500
+    }
+  }
+}

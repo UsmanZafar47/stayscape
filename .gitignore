@@ -1,0 +1,55 @@
+# Secrets: examples are intentionally shareable; real values belong only in local/host settings.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+# Reproducible dependencies, Python runtimes and generated data.
+.venv*/
+venv/
+env/
+.python/
+node_modules/
+*.egg-info/
+backend/data/
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite-*
+# Build, caches and validation output.
+dist/
+build/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.uv-cache/
+.npm-cache/
+.asset-cache/
+.cache/
+coverage/
+.coverage*
+htmlcov/
+test-results/
+playwright-report/
+*.log
+*.tmp
+# Local deployment tooling/editor state must not enter the public repo.
+.vercel/
+.idea/
+.vscode/
+.vs/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+.codex/
+.agents/
+.aws/
+# Local review-agent state is not part of the application.
+.qodo/

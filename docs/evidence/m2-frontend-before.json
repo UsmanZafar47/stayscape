@@ -1,0 +1,126 @@
+﻿[
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\.env.example",
+        "Hash":  "D18567E35943629A732D42B53CC02E0B6DE343E66E37929D3E9AA873E8B27C57"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\index.html",
+        "Hash":  "94754049E9A50C47785F32F7B8D2CF6C3A5506356745162929280AEC94B6B478"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\package-lock.json",
+        "Hash":  "87C352E53C618356990298F0192E23155F544F478E72EC69AD1A879B75512C43"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\package.json",
+        "Hash":  "D74872C1D494526D7E9C7D6E00D29D874653FA584F33C3552FC6B8A822EA6DC6"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\playwright.config.ts",
+        "Hash":  "B92777859D9717AB43D755EA66C4DFE86C3DF5946B6D801799726631E211E0C9"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\README.md",
+        "Hash":  "AB5E2EB61234E86DCE9C6678AB5B0D0169D98733B7DCE914DB38D1EA48975B99"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\tsconfig.json",
+        "Hash":  "B44DD56891AF39720371AF281D0B8885557C02207DB3AD69797C7C76F3EF802F"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\vite.config.ts",
+        "Hash":  "B4BBB13532094EFD16B77BF7B098902B32D889841DE48C454BAEDDC06CEC9CFB"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\public\\models\\apartment.glb",
+        "Hash":  "302FCDA7A7330DFF2AAEE127F144ABC80600315D3852C6DA424A60462B8D0707"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\public\\models\\apartment.png",
+        "Hash":  "36BC3043A4EE7AAF22863C12DE4258F366B3E87D0AC8FF48F06CB784F6253888"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\public\\models\\CREDITS.md",
+        "Hash":  "7B88D699869F5D4B4577BCF062A24458DFFBABC1986071EDEDA65FEEC2206D75"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\public\\models\\house.glb",
+        "Hash":  "E3037DCE405A968C11D12287AC422173B3BA700C68103F9E718FBB2FE0C40573"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\public\\models\\house.png",
+        "Hash":  "A2BBD19D2CAE48B6ADCE85525F74BD440B2B914D726B231594C2EE58F1374AF9"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\public\\models\\loft.glb",
+        "Hash":  "62307D1567865731EEB2981CDF1BADA5045E59A2F9DAD18026F81E6A725290BD"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\public\\models\\loft.png",
+        "Hash":  "33F7E5371AD0CF97534CE3000CA4F080D442DB7A336C0D29DAE7B150FAB5C77A"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\public\\models\\townhouse.glb",
+        "Hash":  "7E618BEA3AD5E7F7173E2586AD7D2EAEB21009BC4AB5866531C60F1F43CF6D0D"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\public\\models\\townhouse.png",
+        "Hash":  "960762143243002ED2E59A425CFF4EEC105AC3BD905E0D1653B6AAD706909B43"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\public\\models\\licenses\\commercial.txt",
+        "Hash":  "C38CEE408D022E57E44E49F1CD655C2FE0DC881A07B881276B795215CDC0DE69"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\public\\models\\licenses\\industrial.txt",
+        "Hash":  "60A8C5C31191256EC9779DC18745DEA6D69C46F4B29703459CE064C1765A59EA"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\public\\models\\licenses\\suburban.txt",
+        "Hash":  "D778FA769A89A7D9F167BC337FDF8FC2144E47D9ABB0C35EB6AD897C0EE24D0A"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\scripts\\prepare-models.mjs",
+        "Hash":  "E7D03F1B7C61F65C4D9B7FA983934BA3207D4517632F5ADCDF39871C9F17F807"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\src\\App.tsx",
+        "Hash":  "C0AF8CDC86AE97AD61FF2AC37F2DED612BBAFFDC00D39BBB01B949F1B06FD684"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\src\\listingLayers.ts",
+        "Hash":  "F06B6D70D277E1C5095C111CB2E3AD48B10DF48609E123F7D65BBAB5AC817F24"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\src\\listings.ts",
+        "Hash":  "8044B91844BF1818D09F41546B68A80316C993BF748B72A5DD9158952C5A42B9"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\src\\main.tsx",
+        "Hash":  "697060808162E2E571CEE7AD1C90DA0B69716FD3B596B7BF4D687FFC6EE4B3F3"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\src\\MapScene.tsx",
+        "Hash":  "BB10184F4EC2FC863D440C4A57348E738E69097FA5DC73379F10C36F659C9E0B"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\src\\model-manifest.json",
+        "Hash":  "05AD94942506351AA477A407C34B00952F811E082F6363C6766A0BD7FB52ED78"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\src\\performance.ts",
+        "Hash":  "520DE0325103C16EBD90C8E163E8027076D327E25FCEC5D3CA92FE2F5F466727"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\src\\styles.css",
+        "Hash":  "A2288D4F633D5A5B5A5218D1AD4D57587528A51BC262F5F4C698B0A00210C8D0"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\tests\\map.spec.ts",
+        "Hash":  "2C2E6F4D04336DE99AF029F52CC0D28796813904A0855890D1BB8B23DD7D77F3"
+    },
+    {
+        "Path":  "C:\\Users\\dell\\OneDrive\\Desktop\\3D-map\\frontend\\tests\\performance.spec.ts",
+        "Hash":  "577AA0C1AECACEFEDDC267C6A6D6ABDC1713850693DDFDC75AC39CA6AA829CC2"
+    }
+]
